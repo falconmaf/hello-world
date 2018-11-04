@@ -1,5 +1,5 @@
 # hello-world
-This is my first repository on GitHub, it can be last or grow to be new.
+This is my first repository on GitHub, it can be last or grow to be something new.
 
 I have over 15 years experience in VFX and animation
 industry and 5 years overlapped in game design and
